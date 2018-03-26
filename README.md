@@ -43,7 +43,7 @@ brew install node
 brew install yarn
 ```
 
-## Shell stuff
+## Shell Stuff
 * iTerm2 as terminal - [Download Here](https://www.iterm2.com/downloads.html)
 * [Oh My Zsh](http://ohmyz.sh/) as shell configuration - Install via: 
 ```
@@ -67,7 +67,7 @@ $(brew --prefix)/opt/fzf/install
 ```
 * Try this one out when I get a touchbar - [iTerm Touchbar](!https://github.com/iam4x/zsh-iterm-touchbar)
 
-## Text editor stuff
+## Text Editor Stuff
 * [Sublime Text 3](https://www.sublimetext.com/3)
 * User settings at `Preferences.sublime-settings` in this repo
 #### Plugins
@@ -115,9 +115,17 @@ $(brew --prefix)/opt/fzf/install
   * iTerm2
   * Sublime Text 3
 
+## Settings
+* Keyboard
+  * Crank up `Key Repeat` and `Delay Until Repeat` 
+  * Remap key so `CapsLock` becomes `Ctrl`
+
+
 ## Other
-* Remap key so `CapsLock` becomes `Ctrl`
+
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 ```
 brew install heroku/brew/heroku
 ```
+
+
