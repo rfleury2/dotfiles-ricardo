@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Materialize",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Agila.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
